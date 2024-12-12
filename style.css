@@ -1,0 +1,35 @@
+/* Set font family and size for the entire page */
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  background-color:#002b1f;
+}
+
+/* Set color and font size for the header section */
+#header-section {
+    background-color: #002b1f;
+    height: 100px;
+    padding-top: 15px;
+}
+
+/* Set color and font size for the header title */
+#header-title {
+    color: #fef4f4;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/* Set color and font size for the header subtitle */
+#header-subtitle {
+    color: #a3ffd4;
+    text-align: left
+}
+
+/* Set color and font size for the menu header */
+#menu-header {
+    color: #a3ffd4;
+    font-size: 24px;
+    font-weight: bold
+}
